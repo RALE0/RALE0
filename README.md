@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">An IT student from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rale0&label=Profile%20views&color=0e75b6&style=flat" alt="rale0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rale0&label=Profile%20views&color=0e75b6&style=flat"  alt="rale0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rale0-ma&theme=darkhub" alt="rale0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rale0-ma&theme=juicyfresh" alt="rale0" /></a> </p>
 
 - 🔭 I’m currently working on [A videogame](https://github.com/MiguelCabreraVictoria/DAMIJODA_GAME)
 
